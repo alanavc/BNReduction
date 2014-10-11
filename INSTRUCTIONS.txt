@@ -28,7 +28,7 @@ How to cite:
 1. A. Veliz-Cuba, B. Aguilar, F. Hinkelmann and R. Laubenbacher. Steady state analysis of Boolean molecular network models via model reduction and computational algebra. BMC Bioinformatics, 2014.
 
 Additional references:
-2. A. Veliz-Cuba, B. Aguilar and R. Laubenbacher. Dimension Reduction of Large AND-NOT Network Models. arxiv.org/abs/1311.6868.
+2. A. Veliz-Cuba, B. Aguilar, and R. Laubenbacher. Dimension Reduction of Large Sparse AND-NOT Network Models. Electronic Notes in Theoretical Computer Science. Accepted, 2014. (see also arxiv.org/abs/1311.6868).
 3. A. Veliz-Cuba, K. Buschur, R. Hamershock, A. Kniss, E. Wolff and R. Laubenbacher. AND-NOT logic framework for steady state analysis of Boolean network models. Applied Mathematics and Information Sciences. 7(4): 1263-1274, 2013.
 4. A. Veliz-Cuba. Reduction of Boolean Network Models. Journal of Theoretical Biology, 289:167-172, 2011.
 5. F. Hinkelmann, M. Brandon, B. Guang, R. McNeill, G. Blekherman, A. Veliz-Cuba and R. Laubenbacher. ADAM: Analysis of Discrete Models of Biological Systems Using Computer Algebra. BMC Bioinformatics, 12:295, 2011.
