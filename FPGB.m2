@@ -1,8 +1,8 @@
 
 newPackage(
     "FPGB",
-    Version => "0.1",
-    Date => "May 10, 2010",
+    Version => "0.11",
+    Date => "Feb 09, 2023",
     Authors => {{Name => "Alan Veliz-Cuba"},
       {Name => "Maintained by Franziska Hinkelmann",
       Email => "fhinkel@vt.edu",
@@ -11,9 +11,9 @@ newPackage(
     DebuggingMode => true
     )
 
-
-export{GBFP,GBFP0,SUB,bf1,bf12,bf2,BF12,T1,T2,T3,T4, makeStates, getDivisors, composeSystem, makeRing, nextState, makeStatesHelper, sortOutput, modifyOutput}
-
+-- export{GBFP,GBFP0,SUB,bf1,bf12,bf2,BF12,T1,T2,T3,T4, makeStates, getDivisors, composeSystem, makeRing, nextState, makeStatesHelper, sortOutput, modifyOutput}
+-- previous line has to be replaced with next line to work in new versions of M2
+export{"GBFP","GBFP0","SUB","bf1","bf12","bf2","BF12","T1","T2","T3","T4", "makeStates", "getDivisors", "composeSystem", "makeRing", "nextState", "makeStatesHelper", "sortOutput", "modifyOutput"}
 
 --This method computes the groebner basis of an ideal and solves the new system
 GBFP=method();
